@@ -1,6 +1,6 @@
 class Student < User
 
-  @knowledge = []
-
+  def new
+  end
 
 end
