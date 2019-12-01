@@ -1,5 +1,5 @@
 class Student < User
-  attr_accessor :know
+  attr_accessor :knowled
 
 
   def new
